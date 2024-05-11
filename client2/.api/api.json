@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "d-id",
+      "source": "@d-id/v4.2.0#4d0o2ilvtl04ul",
+      "integrity": "sha512-43CSPuMfch/rA55o4PV/H7QfJBMN3j6Gh20oY44WnrTnjvTd9JyBdDkZuGCluX8K2PSmSUXB4NWsLIhZgu0xIA==",
+      "installerVersion": "6.1.1"
+    }
+  ]
+}
